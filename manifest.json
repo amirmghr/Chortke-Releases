@@ -1,1 +1,1 @@
-{"notes":"Sicherheits-Audit-Folgefixes: Update-Download-Domain-Whitelist, PrivacyDialog erweitert um Feedback-Hinweis, Consent-Version auf 2.","latest":"8.4.27","method":"exe","url":"https://github.com/amirmghr/Chortke-Releases/releases/download/v8.4.27/Chortke_Update_8.4.27.exe"}
+{"url":"https://github.com/amirmghr/Chortke-Releases/releases/download/v8.4.29/Chortke_Update_8.4.29.exe","method":"exe","notes":"Installer-Fix: HKLM maschinenweite Registrierung, funktioniert unabhaengig vom installierenden Konto","latest":"8.4.29"}
