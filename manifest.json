@@ -1,1 +1,1 @@
-{"url":"https://github.com/amirmghr/Chortke-Releases/releases/download/v8.4.29/Chortke_Update_8.4.29.exe","method":"exe","notes":"Installer-Fix: HKLM maschinenweite Registrierung, funktioniert unabhaengig vom installierenden Konto","latest":"8.4.29"}
+{"method":"exe","notes":"Installer-Fix: ArchitecturesInstallIn64BitMode x64, Program Files, HKLM maschinenweite Registrierung","url":"https://github.com/amirmghr/Chortke-Releases/releases/download/v8.4.30/Chortke_Update_8.4.30.exe","latest":"8.4.30"}
