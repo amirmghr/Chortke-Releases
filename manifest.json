@@ -1,1 +1,1 @@
-{"latest":"8.4.35","notes":"Fix: GetInstallDir Brace-Bug, findet jetzt C:\\Programme\\Chortke korrekt","method":"exe","url":"https://github.com/amirmghr/Chortke-Releases/releases/download/v8.4.35/Chortke_Update_8.4.35.exe"}
+{"method":"exe","notes":"GetInstallDir: FileExists statt Registry, findet Programme direkt","url":"https://github.com/amirmghr/Chortke-Releases/releases/download/v8.4.36/Chortke_Update_8.4.36.exe","latest":"8.4.36"}
