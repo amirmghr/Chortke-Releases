@@ -1,1 +1,1 @@
-{"notes":"Update ohne Admin fuer Programme-Install","latest":"8.4.32","method":"exe","url":"https://github.com/amirmghr/Chortke-Releases/releases/download/v8.4.32/Chortke_Update_8.4.32.exe"}
+{"latest": "8.4.32", "method": "exe", "url": "https://github.com/amirmghr/Chortke-Releases/releases/download/v8.4.32/Chortke_Setup_8.4.32.exe", "notes": "Einmalig Setup als Update (setzt Schreibrechte in Programme). Danach kein Admin mehr noetig."}
