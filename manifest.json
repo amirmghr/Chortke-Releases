@@ -1,1 +1,1 @@
-{"method":"exe","notes":"GetInstallDir: FileExists statt Registry, findet Programme direkt","url":"https://github.com/amirmghr/Chortke-Releases/releases/download/v8.4.36/Chortke_Update_8.4.36.exe","latest":"8.4.36"}
+{"url":"https://github.com/amirmghr/Chortke-Releases/releases/download/v8.4.37/Chortke_Update_8.4.37.exe","latest":"8.4.37","notes":"ChortkeUpdater neu: schliesst Word, findet Pfad, UAC-Eskalation","method":"exe"}
