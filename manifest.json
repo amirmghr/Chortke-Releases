@@ -1,1 +1,1 @@
-{"url":"https://github.com/amirmghr/Chortke-Releases/releases/download/v8.4.37/Chortke_Update_8.4.37.exe","latest":"8.4.37","notes":"ChortkeUpdater neu: schliesst Word, findet Pfad, UAC-Eskalation","method":"exe"}
+{"latest": "8.4.37", "method": "exe", "url": "https://github.com/amirmghr/Chortke-Releases/releases/download/v8.4.37/Chortke_Setup_8.4.37.exe", "notes": "Update bringt neuen Updater. Einmalig Setup, danach zip-Modus."}
