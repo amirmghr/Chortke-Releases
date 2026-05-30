@@ -1,1 +1,1 @@
-{"latest": "8.4.43", "method": "exe", "url": "https://github.com/amirmghr/Chortke-Releases/releases/download/v8.4.43/Chortke_Update_8.4.43.exe", "notes": "Hoehe-Feld zeigt Einheit cm"}
+{"method":"exe","latest":"8.4.44","notes":"Lizenz-Signatur Byte-Quelle korrigiert (Diagnose, noch nicht blockierend)","url":"https://github.com/amirmghr/Chortke-Releases/releases/download/v8.4.44/Chortke_Update_v8.4.44_standalone.exe"}
