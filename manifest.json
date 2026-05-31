@@ -1,1 +1,1 @@
-{"latest": "8.4.62", "method": "zip", "url": "https://github.com/amirmghr/Chortke-Releases/releases/download/v8.4.62/Chortke_Update_v8.4.62.zip", "notes": "Audit-Folgefixes (Datenschutz, Signatur-Diagnose)"}
+{"url":"https://github.com/amirmghr/Chortke-Releases/releases/download/v8.4.63/Chortke_Update_v8.4.63_standalone.exe","method":"exe","latest":"8.4.63","notes":"Update vereinfacht, robustes Signieren"}
