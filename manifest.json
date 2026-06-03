@@ -1,1 +1,1 @@
-{"method": "zip", "notes": "Fix: Einheiten mit Dach-Notation (z.B. cm^3) werden jetzt korrekt hochgestellt angezeigt.", "latest": "8.4.73", "url": "https://github.com/amirmghr/Chortke-Releases/releases/download/v8.4.73/Chortke_Update_v8.4.73.zip"}
+{"latest":"8.4.74","url":"https://github.com/amirmghr/Chortke-Releases/releases/download/v8.4.74/Chortke_Update_8.4.74.exe","notes":"Lizenzierung auf LicenseSeat umgestellt. Einheiten-Hochstellung (cm^3) korrigiert.","method":"exe"}
